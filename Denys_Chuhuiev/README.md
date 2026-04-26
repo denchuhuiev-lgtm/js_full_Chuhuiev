@@ -22,6 +22,9 @@
 - `home-work-10C.D`
 - `home-work-11C.D`
 - `home-work-13C.D`
+- `home-work-14C.D`
+- `Web_Site_Bonus`
+- `Final_HTML_CSS`
 
 ## Домашнє завдання №13
 
@@ -39,6 +42,58 @@
 
 - GitHub Pages: https://denchuhuiev-lgtm.github.io/Chuhuiev_Denys_HW/home-work-13C.D/
 - Код у репозиторії: https://github.com/denchuhuiev-lgtm/Chuhuiev_Denys_HW/tree/main/home-work-13C.D
+
+## Домашнє завдання №14
+
+Тема роботи: **Розробка адаптивного макету з використанням Bootstrap**.
+
+Що реалізовано:
+
+- створено окрему сторінку `home-work-14C.D/index.html` з підключеним Bootstrap 5.3 через CDN;
+- побудовано адаптивний макет із зонами `header`, `left`, `main`, `right` і `footer`;
+- центральний блок зроблено ширшим за бокові колонки через Bootstrap Grid;
+- у секції `main` розміщено 5 контентних блоків;
+- у правій колонці додано Bootstrap-форму, а у футері кнопку повернення на головний індекс.
+
+Посилання:
+
+- GitHub Pages: https://denchuhuiev-lgtm.github.io/Chuhuiev_Denys_HW/home-work-14C.D/
+- Код у репозиторії: https://github.com/denchuhuiev-lgtm/Chuhuiev_Denys_HW/tree/main/home-work-14C.D
+
+## Домашнє завдання №15
+
+Тема роботи: **Tailwind CSS**.
+
+Що реалізовано:
+
+- створено бонусну сторінку `Web_Site_Bonus/index.html` за макетом із `Web Site.png` та шаблоном із `code.txt`;
+- використано Tailwind CSS через CDN для layout, spacing, typography, grid і responsive-поведінки;
+- власні фонові стилі, шрифти та допоміжні класи винесені в окремий файл `Web_Site_Bonus/styles.css`;
+- зібрано hero-блок, послуги, секцію "про мене", дві форми запису, лічильники, відгук, статті, FAQ, контакти й футер;
+- додано українські коментарі над HTML-блоками, над CSS-блоками та пояснення для нових тегів у розмітці.
+
+Посилання:
+
+- GitHub Pages: https://denchuhuiev-lgtm.github.io/Chuhuiev_Denys_HW/Web_Site_Bonus/
+- Код у репозиторії: https://github.com/denchuhuiev-lgtm/Chuhuiev_Denys_HW/tree/main/Web_Site_Bonus
+
+## Фінальний проєкт HTML та CSS
+
+Тема роботи: **Фінальний адаптивний лендинг на Tailwind CSS**.
+
+Що реалізовано:
+
+- створено окрему сторінку `Final_HTML_CSS/index.html` за макетом для desktop, tablet і mobile;
+- основний layout, adaptive grid, typography, spacing і responsive-поведінку побудовано на Tailwind CSS;
+- власні шрифти, фонові зображення, reusable-класи та додаткову адаптацію винесено в `Final_HTML_CSS/styles.css`;
+- зібрано навігацію, hero, feature-картки, statement-секцію, benefits, team, innovation process і footer;
+- додано мобільне меню на `details/summary`, а у футері розміщено кнопку повернення на головний індекс;
+- у HTML та CSS додано українські коментарі над блоками і пояснення для нових тегів.
+
+Посилання:
+
+- GitHub Pages: https://denchuhuiev-lgtm.github.io/Chuhuiev_Denys_HW/Final_HTML_CSS/
+- Код у репозиторії: https://github.com/denchuhuiev-lgtm/Chuhuiev_Denys_HW/tree/main/Final_HTML_CSS
 
 ## Як переглянути
 
